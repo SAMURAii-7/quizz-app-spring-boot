@@ -1,7 +1,7 @@
 package com.shubham.quizapp.service;
 
 import com.shubham.quizapp.dao.QuestionDao;
-import com.shubham.quizapp.entity.Question;
+import com.shubham.quizapp.model.Question;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.BeanUtils;

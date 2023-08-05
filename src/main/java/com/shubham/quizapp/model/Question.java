@@ -1,4 +1,4 @@
-package com.shubham.quizapp.entity;
+package com.shubham.quizapp.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
